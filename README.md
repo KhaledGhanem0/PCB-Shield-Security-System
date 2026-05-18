@@ -5,7 +5,7 @@
 ![Board Size](https://img.shields.io/badge/Board-100.6%20×%2078.2%20mm-informational)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A custom two-layer Arduino Mega shield PCB designed to replace the breadboard prototype of the Multi-Zone Smart Security System. The board consolidates all control and sensing connections into a single, permanent, and reliable hardware platform.
+A custom two-layer **Arduino Mega** shield PCB designed to replace the breadboard prototype of the Multi-Zone Smart Security System. The board consolidates all control and sensing connections into a single, permanent, and reliable hardware platform.
 
 > 🔗 **Firmware Repository:** [Multi-Zone Smart Security System](https://github.com/KhaledGhanem0/Smart-Security-System)
 
