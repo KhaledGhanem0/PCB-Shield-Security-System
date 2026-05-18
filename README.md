@@ -157,7 +157,7 @@ The images below show the KiCad 3D render of the board before fabrication. All c
 │   ├── Security System Arduino Shield.kicad_pcb   # PCB layout
 │   └── fp-lib-table                               # Footprint library references
 ├── images/
-│   ├── schematic.pdf                              # Schematic screenshot
+│   ├── schematic.pdf                              # Schematic PDF
 │   ├── pcb_layout.png                             # PCB layout screenshot
 │   └── 3d_layout.png                              # 3D render
 ├── LICENSE
