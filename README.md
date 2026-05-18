@@ -70,7 +70,11 @@ Routing highlights:
 
 The images below show the KiCad 3D render of the board before fabrication. All component footprints are placed on the front side of the board.
 
-![3D Render](./images/3d_layout.png)
+**Front**
+![3D Render](./images/3d_front.png)
+
+**Back**
+![3D Render](./images/3d_back.png)
 
 ---
 
@@ -159,7 +163,8 @@ The images below show the KiCad 3D render of the board before fabrication. All c
 ├── images/
 │   ├── schematic.pdf                              # Schematic PDF
 │   ├── pcb_layout.png                             # PCB layout screenshot
-│   └── 3d_layout.png                              # 3D render
+│   ├── 3d_front.png                               # 3D render, front side
+│   └── 3d_back.png                                # 3D render, back side
 ├── LICENSE
 └── README.md
 ```
